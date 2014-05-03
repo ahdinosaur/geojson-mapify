@@ -1,0 +1,19 @@
+{
+  "name": "geojson\-mapify",
+  "version": "0.1.0",
+  "description": "map geojson using leafletjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/ahdinosaur/geojson\-mapify.git"
+  },
+  "author": "ahdinosaur",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ahdinosaur/geojson\-mapify/issues"
+  },
+  "homepage": "https://github.com/ahdinosaur/geojson\-mapify"
+}
