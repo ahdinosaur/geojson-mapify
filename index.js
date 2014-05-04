@@ -1,3 +1,6 @@
+L = require('leaflet');
+require('leaflet-markercluster');
+
 module.exports = function (options) {
   var map = new L.Map(options.map, options.mapOptions);
 

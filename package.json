@@ -1,5 +1,5 @@
 {
-  "name": "geojson\-mapify",
+  "name": "geojson-mapify",
   "version": "0.1.0",
   "description": "map geojson using leafletjs",
   "main": "index.js",
@@ -8,12 +8,16 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/ahdinosaur/geojson\-mapify.git"
+    "url": "git://github.com/ahdinosaur/geojson-mapify.git"
   },
   "author": "ahdinosaur",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/ahdinosaur/geojson\-mapify/issues"
+    "url": "https://github.com/ahdinosaur/geojson-mapify/issues"
   },
-  "homepage": "https://github.com/ahdinosaur/geojson\-mapify"
+  "homepage": "https://github.com/ahdinosaur/geojson-mapify",
+  "dependencies": {
+    "leaflet-markercluster": "^0.2.0",
+    "leaflet": "^0.7.2"
+  }
 }
